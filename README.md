@@ -1,3 +1,4 @@
+```markdown
 # The Pirate Bay Proxy List 2026 🏴‍☠️
 
 [![Status](https://img.shields.io/badge/status-active-success)](https://bout2bus.github.io/thepiratebay-proxy-list/)
@@ -5,7 +6,7 @@
 [![Updated](https://img.shields.io/badge/updated-daily-orange)](https://bout2bus.github.io/thepiratebay-proxy-list/)
 [![Countries](https://img.shields.io/badge/countries-30%2B%20unblocked-purple)](https://bout2bus.github.io/thepiratebay-proxy-list/)
 
-&gt; **Daily updated list of 100% working The Pirate Bay proxy sites and mirrors. Unblock TPB in UK, US, Australia, Germany & 30+ countries. Fast, secure, and verified.**
+> **Daily updated list of 100% working The Pirate Bay proxy sites and mirrors. Unblock TPB in UK, US, Australia, Germany & 30+ countries. Fast, secure, and verified.**
 
 🔗 **Live Site:** https://bout2bus.github.io/thepiratebay-proxy-list/
 
@@ -74,3 +75,51 @@ git clone git://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
 # Configure with proxy support
 ./configure --with-http_ssl_module --add-module=/path/to/ngx_http_substitutions_filter_module
 make && sudo make install
+```
+
+See our [full setup guide](https://bout2bus.github.io/thepiratebay-proxy-list/#setup-own-proxy) for complete configuration.
+
+---
+
+## 📜 The Pirate Bay History
+
+- **2003**: Founded by Piratbyrån in Sweden
+- **2006**: First police raid, site returns in 3 days
+- **2009**: Founders sentenced to prison and $7M+ damages
+- **2012**: Supreme Court declines appeal, founders serve time
+- **2014-2020**: Constant domain seizures and relocations
+- **2023**: 20th anniversary of the world's most resilient torrent site
+- **2026**: Still operational through proxy networks
+
+---
+
+## ⚠️ Safety Tips
+
+- ✅ Always use a VPN (NordVPN recommended)
+- ✅ Enable uBlock Origin ad blocker
+- ✅ Only download from trusted uploaders (skull icons)
+- ✅ Scan all files with antivirus
+- ✅ Use qBittorrent (no ads, open source)
+
+**Avoid:**
+- ❌ Free VPNs (Hola, Betternet, Opera VPN)
+- ❌ Proxies asking for registration
+- ❌ HTTP-only sites (no encryption)
+- ❌ Executable files from unknown sources
+
+---
+
+## 🔗 Alternative Resources
+
+- [TPBProxies.com](https://tpbproxies.com/)
+- [TPBParty.com](https://tpbparty.com/)
+- [ThePirateBayProxyList.com](https://thepiratebayproxylist.com/)
+
+---
+
+## 📄 License
+
+This project is for educational purposes. Information provided is publicly available.
+
+**Keywords:** the pirate bay proxy 2026, tpb proxy list, piratebay mirror, unblock tpb, thepiratebay proxy, working pirate bay proxies, tpb unblock, bypass isp block, torrent proxy, p2p proxy
+```
