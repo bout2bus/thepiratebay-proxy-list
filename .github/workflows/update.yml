@@ -1,0 +1,22 @@
+name: Daily Update
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update timestamp
+        run: |
+          sed -i "s/Last Updated: .*/Last Updated: $(date +%Y-%m-%d)/" index.html
+          sed -i "s/lastmod>.*<\\/lastmod>/lastmod>$(date +%Y-%m-%d)<\\/lastmod>/" sitemap.xml
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Daily update: $(date +%Y-%m-%d)" || exit 0
+          git push
