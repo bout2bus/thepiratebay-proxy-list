@@ -1,4 +1,3 @@
-```markdown
 # The Pirate Bay Proxy List 2026 🏴‍☠️
 
 [![Status](https://img.shields.io/badge/status-active-success)](https://bout2bus.github.io/thepiratebay-proxy-list/)
@@ -59,28 +58,6 @@ Using a proxy without a VPN is **not recommended**. Your ISP can still see you'r
 
 ---
 
-## 🛠️ Setup Your Own Proxy
-
-Want to contribute? You can setup your own TPB proxy:
-
-### Quick Start (NGINX)
-```bash
-# Install dependencies
-sudo apt-get install libpcre3-dev zlib1g-dev openssl libssl-dev
-
-# Download NGINX with substitutions module
-wget http://nginx.org/download/nginx-1.24.0.tar.gz
-git clone git://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
-
-# Configure with proxy support
-./configure --with-http_ssl_module --add-module=/path/to/ngx_http_substitutions_filter_module
-make && sudo make install
-```
-
-See our [full setup guide](https://bout2bus.github.io/thepiratebay-proxy-list/#setup-own-proxy) for complete configuration.
-
----
-
 ## 📜 The Pirate Bay History
 
 - **2003**: Founded by Piratbyrån in Sweden
@@ -122,4 +99,24 @@ See our [full setup guide](https://bout2bus.github.io/thepiratebay-proxy-list/#s
 This project is for educational purposes. Information provided is publicly available.
 
 **Keywords:** the pirate bay proxy 2026, tpb proxy list, piratebay mirror, unblock tpb, thepiratebay proxy, working pirate bay proxies, tpb unblock, bypass isp block, torrent proxy, p2p proxy
-```
+
+## 🛠️ Setup Your Own Proxy
+
+Want to contribute? You can setup your own TPB proxy:
+
+### Quick Start (NGINX)
+```bash
+# Install dependencies
+sudo apt-get install libpcre3-dev zlib1g-dev openssl libssl-dev
+
+# Download NGINX with substitutions module
+wget http://nginx.org/download/nginx-1.24.0.tar.gz
+git clone git://github.com/yaoweibin/ngx_http_substitutions_filter_module.git
+
+# Configure with proxy support
+./configure --with-http_ssl_module --add-module=/path/to/ngx_http_substitutions_filter_module
+make && sudo make install
+
+See our [full setup guide](https://bout2bus.github.io/thepiratebay-proxy-list/) for complete configuration.
+
+---
