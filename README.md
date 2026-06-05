@@ -13,7 +13,7 @@
 
 ## 🚀 Working TPB Proxies (Updated June 2026)
 
-| Proxy URL | Status | Speed | Location | SSL |
+| Proxy URL | Status | Speed | Description | SSL |
 |-----------|--------|-------|----------|-----|
 | [TPB.Run](https://tpb.run/) | ✅ Online | ⚡⚡ 99% | RETRO | 🔒 |
 | [pbproxy.pages.dev](https://pbproxy.pages.dev/) | ✅ Online | ⚡ 95% | Cloudflare | 🔒 |
