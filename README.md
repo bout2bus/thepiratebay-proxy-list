@@ -11,10 +11,11 @@
 
 ---
 
-## 🚀 Working TPB Proxies (Updated February 2026)
+## 🚀 Working TPB Proxies (Updated June 2026)
 
 | Proxy URL | Status | Speed | Location | SSL |
 |-----------|--------|-------|----------|-----|
+| [TPB.Run](https://tpb.run/) | ✅ Online | ⚡⚡ 99% | RETRO | 🔒 |
 | [pbproxy.pages.dev](https://pbproxy.pages.dev/) | ✅ Online | ⚡ 95% | Cloudflare | 🔒 |
 | [piratebay-proxy.pages.dev](https://piratebay-proxy.pages.dev/) | ✅ Online | ⚡ 92% | Cloudflare | 🔒 |
 | [tpb.bounc.me](https://tpb.bounc.me/) | ✅ Online | ⚡ 88% | Global | 🔒 |
