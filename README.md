@@ -23,6 +23,7 @@
 | [thepiratebay.gitly.pro](https://thepiratebay.gitly.pro/) | ✅ Online | ⚡ 93% | GitHub | 🔒 |
 | [tpbparty.bounc.me](https://tpbparty.bounc.me/) | ✅ Online | ⚡ 87% | Party | 🔒 |
 | [tpb.prxy.click](https://tpb.prxy.click/) | ✅ Online | ⚡ 91% | New 2026 | 🔒 |
+| [torrenttrackerslist.com](https://www.torrenttrackerslist.com/piratebay-proxies) | ✅ Live-checked | ⚡ 95% | JSON + badge, rechecked every 4 min from browser | 🔒 |
 
 ---
 
